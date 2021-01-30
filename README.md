@@ -3,9 +3,9 @@
 Como parte del desafio del curso de Data Science de Digital, el objetivo final fue la creación de un modelo de aprendizaje supervisado.
 Para lograr esto, se realizaron diferentes acciones:
 
-• Comprensión de los datos usando la documentación que nos proporciona la web. (En anexo);
-• Preparación, estructuración y limpieza de los datos;
-• Analisis estadístico explotario
+• Comprensión de los datos usando la documentación que nos proporciona la web. (En anexo);\
+• Preparación, estructuración y limpieza de los datos;\
+• Analisis estadístico explotario\
 • Uso de otros datasets para mejorar la precision de nuestros modelos.
 
 El dataset que fue utilizado corresponde a Properati, un sitio de búsqueda de inmuebles, que contiene diferentes datos sobre las caractericas de cada inmueble junto con su precio, sea para venta, alquiler o alquiler temporal.
