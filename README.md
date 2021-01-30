@@ -3,7 +3,7 @@
 Como parte del desafio del curso de Data Science de Digital, el objetivo final fue la creación de un modelo de aprendizaje supervisado.
 Para lograr esto, se realizaron diferentes acciones:
 
-• Comprensión de los datos usando la documentación que nos proporciona la web. (En anexo);\
+• Comprensión de los datos usando la documentación que nos proporciona la web. ( Documentación en anexo);\
 • Preparación, estructuración y limpieza de los datos;\
 • Analisis estadístico explotario;\
 • Uso de otros datasets para mejorar la precision de nuestros modelos.
@@ -12,7 +12,7 @@ El dataset que fue utilizado corresponde a Properati, un sitio de búsqueda de i
  
 Los mismos se encuentran en el siguiente: https://www.properati.com.ar/data/
 
-Para comprender mejor el dataset, adjunto la documentación:
+### Documentacion
 
 • type - Tipo de aviso (Propiedad, Desarrollo/Proyecto).\
 • country - País en el que está publicado el aviso (Argentina, Uruguay, Colombia, Ecuador, Perú)\
